@@ -2,8 +2,8 @@ local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ki
     local Notify = AkaliNotif.Notify
 
     Notify({
-        Description = "Thanks for using LoadoutV1!",
-        Title = "Made By Agent_R/THE REAL SIGMA/irizzupgyats on discord!",
+        Description = "Thanks for using antiban V0.2!",
+        Title = "Made By @dibbdobb on discord!",
         Duration = 10
     })
 
